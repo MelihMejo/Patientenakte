@@ -31,6 +31,7 @@ export default defineConfig([
        // React 17+ JSX Transform: React muss nicht mehr in scope sein
       'react/react-in-jsx-scope': 'off',
       'react/jsx-uses-react': 'off',
+      'react/prop-types': 'off',
     },
   },
 ])
